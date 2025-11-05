@@ -1,5 +1,7 @@
 Relatório de Desempenho – Modelos de Threads 1:1 e N:M
 
+Trabalho desenvolvido por: Alex Narok Stavasz
+
 1. Introdução
 
 O objetivo deste experimento foi comparar o desempenho entre dois modelos de mapeamento de threads: 
